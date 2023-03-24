@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="room_No">
+        <item> </item>
+        <item>5号熟成室</item>
+        <item>6号熟成室</item>
+        <item>7号熟成室</item>
+        <item>8号熟成室</item>
+        <item>9号熟成室</item>
+        <item>10号熟成室</item>
+    </string-array>
+
+    <string-array name="user_name">
+        <item> </item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>>
+</resources>

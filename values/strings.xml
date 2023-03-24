@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">handyterminal</string>
+    <string name="textview2">熟成室 入庫登録システム</string>
+    <string name="ver_1_0_0">ver.1.0.0</string>
+    <string name="入庫状況モニタ">入庫状況モニタ</string>
+    <string name="熟成室No">熟成室No.</string>
+    <string name="登録状況">登録状況</string>
+    <string name="textview8">熟成室No.</string>
+    <string name="登録状況2">登録状況(最新が上側)</string>
+    <string name="textView2">熟成室 入庫登録システム</string>
+    <string name="textview7">登録状況(最新が上側)</string>
+    <string name="入庫登録">入庫登録</string>
+    <string name="現品票読取">現品票読取</string>
+    <string name="品種名">品種名</string>
+    <string name="作業者名">作業者名</string>
+    <string name="no">熟成室No.</string>
+    <string name="登録">登録</string>
+    <string name="title1">時間</string>
+    <string name="title2">作業者</string>
+    <string name="title3">品種名</string>
+    <string name="title4">No.</string>
+    <string name="QRinfo">textview3\n</string>
+    <string name="time">時間</string>
+    <string name="user">作業者</string>
+    <string name="breed">品種名</string>
+    <string name="number">No.</string>
+
+</resources>
